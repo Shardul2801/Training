@@ -1,0 +1,4 @@
+Today is friday
+Month is October
+Year is 2023
+Day is 13
